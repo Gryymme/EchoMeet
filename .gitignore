@@ -13,3 +13,6 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Project-specific Firebase Android client configuration (keep local).
+/app/google-services.json

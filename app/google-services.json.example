@@ -1,13 +1,14 @@
 {
   "project_info": {
-    "project_number": "890340346613",
-    "project_id": "e-m-chat-application",
-    "storage_bucket": "e-m-chat-application.firebasestorage.app"
+    "project_number": "INVALID_PROJECT_NUMBER",
+    "firebase_url": "https://INVALID_DATABASE.invalid",
+    "project_id": "INVALID_PROJECT_ID",
+    "storage_bucket": "INVALID_BUCKET.invalid"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:890340346613:android:be419687d14b8a92acd3bc",
+        "mobilesdk_app_id": "INVALID_FIREBASE_APP_ID",
         "android_client_info": {
           "package_name": "com.example.chatapp"
         }
@@ -15,7 +16,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCidgO5CWeIob4AehQHDTsBmbZJnPm9BRk"
+          "current_key": "INVALID_REPLACE_WITH_DOWNLOADED_CONFIGURATION"
         }
       ],
       "services": {
